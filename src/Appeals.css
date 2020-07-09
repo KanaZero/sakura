@@ -1,0 +1,50 @@
+.AppealTop {
+    background: #00FF77C4 ;
+    border: 1px solid #707070;
+    border-radius: 2em;
+    padding: 0.2em 2em;
+    font-weight: Bold;
+    color: white;
+    font-size: 2rem;
+}
+
+.AppealContentBorder {
+    background: #00FF77C4 ;
+    padding: 2em 2em;
+    border: 1px solid #707070;
+    border-radius: 2em;
+    margin: 3rem;
+}
+
+.AppealContent {
+    background: #000000;
+    height: 24rem;
+    width: 36rem;
+    padding: 1rem;
+    border: 1px solid #707070;
+    border-radius: 2em;
+    color: white;
+    opacity: 0.85;
+}
+
+.AppealSend {
+    background: #00FF77C4 ;
+    border: 1px solid #707070;
+    border-radius: 2em;
+    padding: 0.2em 2em;
+    font-weight: Bold;
+    color: white;
+    font-size: 2rem;
+    justify-content: left;
+}
+
+::placeholder {
+    color: white;
+}
+
+textarea:focus{
+    outline: none !important;
+    border-color: none;
+    box-shadow: none;
+}
+

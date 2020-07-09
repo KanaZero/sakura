@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sakura/static/css/main.1dea893f.chunk.css",
+    "main.js": "/sakura/static/js/main.520f9ea6.chunk.js",
+    "main.js.map": "/sakura/static/js/main.520f9ea6.chunk.js.map",
+    "runtime-main.js": "/sakura/static/js/runtime-main.4952c288.js",
+    "runtime-main.js.map": "/sakura/static/js/runtime-main.4952c288.js.map",
+    "static/css/2.2cac85b7.chunk.css": "/sakura/static/css/2.2cac85b7.chunk.css",
+    "static/js/2.13bb659e.chunk.js": "/sakura/static/js/2.13bb659e.chunk.js",
+    "static/js/2.13bb659e.chunk.js.map": "/sakura/static/js/2.13bb659e.chunk.js.map",
+    "index.html": "/sakura/index.html",
+    "precache-manifest.69509c42351f685c2a7a32a2fb6d14f4.js": "/sakura/precache-manifest.69509c42351f685c2a7a32a2fb6d14f4.js",
+    "service-worker.js": "/sakura/service-worker.js",
+    "static/css/2.2cac85b7.chunk.css.map": "/sakura/static/css/2.2cac85b7.chunk.css.map",
+    "static/css/main.1dea893f.chunk.css.map": "/sakura/static/css/main.1dea893f.chunk.css.map",
+    "static/js/2.13bb659e.chunk.js.LICENSE.txt": "/sakura/static/js/2.13bb659e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/sakura/static/media/outline-icons.ef60a4f6.woff",
+    "static/media/Events.css": "/sakura/static/media/sakura.e9b02019.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4952c288.js",
+    "static/css/2.2cac85b7.chunk.css",
+    "static/js/2.13bb659e.chunk.js",
+    "static/css/main.1dea893f.chunk.css",
+    "static/js/main.520f9ea6.chunk.js"
+  ]
+}

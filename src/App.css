@@ -1,0 +1,64 @@
+.App {
+  text-align: center;
+  background: transparent linear-gradient(180deg, #000000 0%, #FFFFFF00 100%) 0% 0% no-repeat padding-box;
+}
+
+* {
+  margin: 0rem;
+  padding: 0rem;
+}
+
+body {
+  background-image: url("./sakura.jpg");
+  width: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Header {
+  display: flex; 
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.Instagram {
+  font-size: 3.5rem;
+  color: #ffbc01;
+  background: transparent;
+  text-align: center;
+  margin-top: 1rem !important;
+  margin-bottom: 2rem;
+  margin-left: 0rem;
+  margin-right: 0rem;
+}
+
+.Login {
+  background: #00FF77C4 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 53px;
+  padding: 5px 25px;
+  font-weight: Bold;
+}
+
+p {
+  padding: 0rem 2rem;
+  font-size: 2rem;
+  color: white;
+  white-space: nowrap;
+  margin-top: 2rem !important;
+  margin-bottom: 1rem;
+}
+
+a {
+  color: white ;
+}
+
+.justify {
+  display: flex;
+  justify-content: center;
+}
+
+
+
+
+
