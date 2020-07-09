@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfc2f6096a450fc70a8bf9180c203074",
+    "revision": "5efa013b46867828c3cc78218f5200e9",
     "url": "/sakura/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sakura/static/css/2.2cac85b7.chunk.css"
   },
   {
-    "revision": "716fa2e84caac3f4b06c",
+    "revision": "b6f1bedb173ea3ff787b",
     "url": "/sakura/static/css/main.d2a5f214.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sakura/static/js/2.13bb659e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "716fa2e84caac3f4b06c",
-    "url": "/sakura/static/js/main.520f9ea6.chunk.js"
+    "revision": "b6f1bedb173ea3ff787b",
+    "url": "/sakura/static/js/main.5bcb5172.chunk.js"
   },
   {
     "revision": "62273cfe3b64b5a1b749",
